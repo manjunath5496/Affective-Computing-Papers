@@ -30,5 +30,19 @@ for Mobile Applications</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Affective-Computing-Papers/blob/master/ac(14).pdf" style="text-decoration:none;">Facial Expression Emotion Detection for Real-Time Embedded Systems</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Affective-Computing-Papers/blob/master/ac(15).pdf" style="text-decoration:none;">EmoVoice &minus; A framework for online recognition of emotions from voice</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Affective-Computing-Papers/blob/master/ac(16).pdf" style="text-decoration:none;">A study of the state of the art of Affective Computing in Ambient Intelligence environments</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Affective-Computing-Papers/blob/master/ac(17).pdf" style="text-decoration:none;">An E-learning System based on Affective Computing</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Affective-Computing-Papers/blob/master/ac(18).pdf" style="text-decoration:none;">A review of affective computing: From unimodal analysis to multimodal fusion</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Affective-Computing-Papers/blob/master/ac(19).pdf" style="text-decoration:none;">Affective Computing:
+Historical Foundations, Current Applications, and Future Trends</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Affective-Computing-Papers/blob/master/ac(20).pdf" style="text-decoration:none;">Can Affective Computing Lead to More Effective Use of ICT in Education?</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Affective-Computing-Papers/blob/master/ac(21).pdf" style="text-decoration:none;">Affective Computing: A Review</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Affective-Computing-Papers/blob/master/ac(22).pdf" style="text-decoration:none;">Affective computing: challenges</a></li> 
 
 </ul>
